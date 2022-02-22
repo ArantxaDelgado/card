@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(209, 201, 201);
+}
+
+section {
+    background-color: white;
+    width: 25%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+section:hover {
+    box-shadow: 0.5em 0.5em rgba(0, 0, 0, 0.226);
+}
+
+img {
+    width: 100%;
+}
+
+.card--div {
+    padding-left: 1em;
+}
+
+h1 {
+    margin-top:1em;
+}
