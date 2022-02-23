@@ -4,11 +4,12 @@ body{
 
 section {
     background-color: white;
-    width: 25%;
-    height: 50%;
+    width: 75%;
+    height: 100%;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    padding-bottom: 1em;
 }
 
 section:hover {
